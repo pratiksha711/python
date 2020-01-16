@@ -1,4 +1,4 @@
-print "suman sonam"
+print "suman"
 print"pratiksha tejaswi"
 print"anjali reshma"
 print ("hpcsa")
